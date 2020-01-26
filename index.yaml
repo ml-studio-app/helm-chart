@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  mlstudio:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-01-26T14:59:34.160546+13:00"
+    description: Our goal is for Data Scientists and Engineers to spend all their
+      time on hard and creative ML tasks.
+    digest: c1e6b0fc4a3c7d34b8e60fe869b8db6d609d850a557c3c4304b94632b29cdc17
+    home: https://www.mlstudioapp.com
+    icon: https://www.dropbox.com/s/ds4rgnbleeg1i8v/logo.svg?raw=1
+    keywords:
+    - Machine Learning
+    - Deep Learning
+    - Data Science
+    - Data Scientist
+    - ML Studio
+    - ML
+    - a.i.
+    - AI
+    - infrastructure
+    maintainers:
+    - email: mostafa@mlstudioapp.com
+      name: Mostafa Gazar
+      url: http://mostafagazar.com
+    name: mlstudio
+    urls:
+    - https://ml-studio-app.github.io/helm-chart/mlstudio-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-26T14:59:34.155158+13:00"
