@@ -15,7 +15,7 @@ export cluster_zone=us-central1-a
 
 gcloud container clusters create $cluster_name \
     --machine-type=n1-standard-4 \
-    --num-nodes 2 \
+    --num-nodes 1 \
     --enable-autoscaling --min-nodes 0 --max-nodes 6 \
     --zone $cluster_zone
 
