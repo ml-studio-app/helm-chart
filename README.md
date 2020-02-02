@@ -106,8 +106,8 @@ rm -R istio-*/
 helm repo add mlstudio https://ml-studio-app.github.io/helm-chart/
 helm repo update
 
-# If you are trying this on GKE then skip deploying the metrics server because it comes with GKE 
-helm install mlstudio/mlstudio --set metrics-server.enabled=false
+# If you are trying this on your local machine 
+helm install mlstudio/mlstudio --set installLocally=true
 # Otherwise
 helm install mlstudio/mlstudio
 ```
