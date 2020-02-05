@@ -3,10 +3,10 @@ entries:
   mlstudio:
   - apiVersion: v1
     appVersion: "1"
-    created: "2020-02-06T06:13:46.754785+13:00"
+    created: "2020-02-06T06:14:58.390243+13:00"
     description: Our goal is for Data Scientists and Engineers to spend all their
       time on hard and creative ML tasks.
-    digest: 12416a68ba47631c16d5dce2f34cf83e6f06af47126d65033f337065a8828850
+    digest: 55fb5102c77436e3abecc96d25d9a170b046cc1d8a6f553b9ab4b302ef350273
     home: https://www.mlstudioapp.com
     icon: https://www.dropbox.com/s/ds4rgnbleeg1i8v/logo.svg?raw=1
     keywords:
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://ml-studio-app.github.io/helm-chart/mlstudio-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-06T06:13:46.753403+13:00"
+generated: "2020-02-06T06:14:58.387832+13:00"
